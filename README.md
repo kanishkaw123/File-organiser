@@ -12,6 +12,6 @@ This software can be easily downloaded and used. Please follow the following ste
 2. Unzip it into a preffered location
 3. Go to the root folder > editable_files > directiories.txt
 4. Clear everything in that file and insert the directory locations line by line where the files need to be organised.
-  -> Eg: "C:\Documents
+  -> Eg: "C:\Documents"
 6. run the file_organiser.exe file
 7. You will be able find organised files in the "ORGANISED FILES" directoory.
